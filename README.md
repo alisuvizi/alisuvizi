@@ -11,9 +11,9 @@
 <details>
 <summary>:octocat: About Me!</summary>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimpk&layout=compact&hide=css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisuvizi&layout=compact&hide=css,html)
 
-![Ali's Github Stats](https://github-readme-stats.vercel.app/api?username=alimpk&count_private=true&show_icons=true&theme=monokai&hide=[%22issues%22])
+![Ali's Github Stats](https://github-readme-stats.vercel.app/api?username=alisuvizi&count_private=true&show_icons=true&theme=monokai&hide=[%22issues%22])
 
 </details>
 
